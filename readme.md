@@ -1,6 +1,6 @@
-# Article Summarizer
+# EZSUMMARY
 
-The Article Summarizer is an open-source project that utilizes the power of OpenAI's API to provide a robust and efficient solution for summarizing articles. With this tool, you can effortlessly transform lengthy articles into concise and digestible summaries, saving you valuable time and effort.
+The EZSUMMARY is a React Project with Vite which is an Article Summarizer that utilizes the power of OpenAI's API to provide a robust and efficient solution for summarizing articles. With this tool, you can effortlessly transform lengthy articles into concise and digestible summaries, saving you valuable time and effort.
 
 Features
 AI-powered Summarization: The Article Summarizer leverages OpenAI's advanced natural language processing capabilities to generate accurate and coherent summaries of articles.
