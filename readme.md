@@ -1,18 +1,15 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+# Article Summarizer
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
- 
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
+The Article Summarizer is an open-source project that utilizes the power of OpenAI's API to provide a robust and efficient solution for summarizing articles. With this tool, you can effortlessly transform lengthy articles into concise and digestible summaries, saving you valuable time and effort.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Features
+AI-powered Summarization: The Article Summarizer leverages OpenAI's advanced natural language processing capabilities to generate accurate and coherent summaries of articles.
+Easy-to-use Interface: The user-friendly interface allows you to simply input the article text or URL and obtain a comprehensive summary with a single click.
+Articles History: Saves the articles and allows you to navigate through the articles you summarized.
+Open-Source and Extensible: The project is open-source, meaning you have the freedom to customize and enhance the codebase to meet your specific requirements.
+Getting Started
+To get started with the Article Summarizer, follow these steps:
+
+Clone the repository: git clone https://github.com/your-username/article-summarizer.git
+Install the dependencies: npm install
+Run the application: npm run dev 
